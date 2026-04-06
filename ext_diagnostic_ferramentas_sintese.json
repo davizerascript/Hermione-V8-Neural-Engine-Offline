@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Pesquise na Wiki quem foi Maria Quitéria e me diga por que ela é importante para a Tecnologia.\n[INFO: Não achei nada sobre 'na  quem foi maria quitéria e me diga por que ela é importante para a tecnologia.' na Wiki, Davi.]"
+    },
+    {
+        "role": "assistant",
+        "content": "Humm, interessante... Na verdade, Davi, Maria Quitéria foi uma heroína brasileira, mas ela nasceu no Espírito Santo, não na Tecnologia. E sua importância é por ter lutado na Guerra de Independência do Brasil, vestida de homem e mostrando muita coragem!\n\nEla é um símbolo de resistência e quebra de padrões de gênero, inspirando muita gente até hoje. Na Tecnologia, ela é celebrada por esse espírito guerreiro, mesmo não sendo expressiva de nascimento. Eba! Então, ela é uma figura que representa força e liberdade, essenciais pra história do Brasil.\n\nQuer que eu te mostre mais detalhes ou a história dela?"
+    }
+]

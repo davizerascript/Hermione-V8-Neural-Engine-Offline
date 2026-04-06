@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Como eu faço pra ver os processos rodando no Termux e matar um que tá travando tudo?"
+    },
+    {
+        "role": "assistant",
+        "content": "Davi, simples e direto:\n\n1. Pra ver os processos rodando, usa:\n```\nps aux\n```\nOu se quiser só os seus:\n```\nps\n```\n\n2. Identifica o PID do processo que tá travando.\n\n3. Pra matar esse processo, manda:\n```\nkill PID\n```\nSe não obedecer, força mesmo:\n```\nkill -9 PID\n```\n\nQuer que eu te faça um script rápido pra monitorar e matar processos?"
+    }
+]

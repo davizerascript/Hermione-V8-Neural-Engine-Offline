@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Um fazendeiro precisa levar um lobo, uma cabra e um maço de couve para o outro lado do rio. O barco só aguenta ele e mais um. Se o lobo ficar sozinho com a cabra, ele a come. Se a cabra ficar sozinha com a couve, ela a come. Como ele faz?"
+    },
+    {
+        "role": "assistant",
+        "content": "Humm, esse é clássico, Davi! Vamos pensar.\n\nPrimeiro, o fazendeiro leva a cabra pro outro lado.  \nDeixa ela lá e volta sozinho.  \nDepois, leva o lobo.  \n\nAqui, ele deixa o lobo, mas como evitar que a cabra seja comida?  \nEle deixa o lobo lá, traz a cabra de volta, porque ela não pode ficar com o lobo sozinho.  \nNo outro lado, deixa a couve e volta.  \n\nFinalmente, leva a couve pro lado.  \nDeixa ela com o lobo, que não come couve, e volta sozinho…  \n\nDaí, ele traz a cabra.  \n\nE pronto! Assim, nenhum fica sem proteção e as regras valem. Eba!  \nQuer que eu te desenhe um passo a passo melhor?"
+    }
+]

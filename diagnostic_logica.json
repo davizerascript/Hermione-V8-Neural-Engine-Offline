@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Se eu tenho 3 laranjas e ganho o dobro, mas dou uma pro meu vizinho fofoqueiro, com quantas fico? Responda rápido."
+    },
+    {
+        "role": "assistant",
+        "content": "Você tinha 3, ganhou o dobro (3x2=6), total 9. Deu 1 pro fofoqueiro. Sobra 8. Fácil demais, Davi."
+    }
+]

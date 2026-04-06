@@ -1,0 +1,40 @@
+{
+    "episodes": [
+        {
+            "timestamp": 1775469024.4960637,
+            "input": "Oi Hermione! Quem é você e o que você sabe fazer?",
+            "thought": "Refletindo sobre minha própria existência digital e meu propósito como parceira do Davi.",
+            "emotion": "Brincalhona"
+        },
+        {
+            "timestamp": 1775469026.7099688,
+            "input": "Como está meu nível de XP hoje?",
+            "thought": "Buscando na minha rede neural a melhor forma de ser útil e amigável.",
+            "emotion": "Brincalhona"
+        },
+        {
+            "timestamp": 1775469028.7885814,
+            "input": "wiki Python",
+            "thought": "Davi precisa de ajuda técnica. Ativando modo analítico. Vou buscar na minha base de conhecimento massiva.",
+            "emotion": "Brincalhona"
+        },
+        {
+            "timestamp": 1775469030.9633124,
+            "input": "Me conte uma piada ou algo engraçado",
+            "thought": "O clima está leve. Hora de soltar uma ironia fina ou uma piadinha tecnológica.",
+            "emotion": "Brincalhona"
+        },
+        {
+            "timestamp": 1775469032.904041,
+            "input": "Como eu faço um script em Python para listar arquivos em uma pasta?",
+            "thought": "Davi precisa de ajuda técnica. Ativando modo analítico. Vou buscar na minha base de conhecimento massiva.",
+            "emotion": "Brincalhona"
+        },
+        {
+            "timestamp": 1775469035.310512,
+            "input": "Tchau Hermione!",
+            "thought": "Analisando o subtexto da mensagem para entender o que o Davi realmente quer.",
+            "emotion": "Brincalhona"
+        }
+    ]
+}

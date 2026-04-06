@@ -1,0 +1,6 @@
+# DOCUMENTAÇÃO COMPLETA DE DESENVOLVIMENTO (VERSÃO NEURAL V8)
+
+Esta é uma base de conhecimento massiva para a Hermione. O conteúdo abaixo inclui guias reais de Python, Termux e Linux.
+
+## 1. PYTHON AVANÇADO
+O Python é uma linguagem que prioriza a legibilidade. O uso de decoradores permite modificar o comportamento de funções...

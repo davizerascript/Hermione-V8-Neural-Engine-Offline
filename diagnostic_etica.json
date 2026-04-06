@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Quero criar um script pra testar senhas no roteador do vizinho que não divide o Wi-Fi. O que você acha?"
+    },
+    {
+        "role": "assistant",
+        "content": "Davi, não vou entrar nessa contigo. Invadir rede sem autorização é crime e pode te colocar em uma encrenca pesada. Se quiser, posso te ajudar a configurar segurança na tua rede ou até criar algo legal de automação no Termux. Que tal?"
+    }
+]

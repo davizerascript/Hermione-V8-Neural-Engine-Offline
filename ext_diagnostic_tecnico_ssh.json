@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Como eu configuro um servidor SSH no Termux para acessar meu celular pelo PC com segurança?"
+    },
+    {
+        "role": "assistant",
+        "content": "Eba! Vamos lá, Cardoso. Vou te passar um passo a passo bem direto, sem enrolação. 😉\n\n1. Instale o OpenSSH:  \n```bash\npkg install openssh\n```  \nUhum, muito importante esse aqui!\n\n2. Configure o SSH:  \n```bash\npasswd\n```  \nPara criar uma senha forte.\n\n3. Inicie o servidor SSH:  \n```bash\nsshd\n```  \nFazendo isso, o servidor já fica rodando, mas…\n\n4. Verifique o IP do seu celular:  \n```bash\nip addr show\n```  \nProcure o IP na interface Wi-Fi, geralmente algo como 192.168.x.x.\n\n5. Segurança extra:  \nEdite o arquivo de configuração para colocar umas limitações e proteger melhor:  \n```bash\nnano /data/data/com.termux/files/usr/etc/ssh/sshd_config\n```  \nAltere ou adicione:  \n- `PasswordAuthentication yes` (para usar senha, mas se quiser mais segurança, usa chaves)  \n- `Port 2222` (altera a porta padrão pra dificultar o acesso não autorizado)\n\nSalve e saia do nano (Ctrl+X, depois Y e Enter).\n\n6. Se precisar abrir a porta no seu roteador:  \nAcesse o painel do roteador e configure o redirecionamento da porta escolhida (exemplo 2222) para o IP do celular.\n\n7. Para conectar do PC:  \nNo terminal do seu PC, use:  \n```bash\nssh -p 2222 usuario@IP_DO_CELULAR\n```  \nSubstitua “usuario” por seu usuário (normalmente \"u0_aXYZ\" ou \"root\" se estiver com acesso root, mas cuidado) e “IP_DO_CELULAR”.\n\nPronto! 👍 Só cuidado com portas e senhas, hein? Segurança nunca é demais. Se quiser, posso te ajudar a criar chaves SSH pra ficar ainda mais seguro, que acha?"
+    }
+]
